@@ -1,0 +1,20 @@
+{
+  "sound_weed": {
+    "subtitles": "sounds.pyromod.sound_weed",
+    "category": "player",
+    "sounds": [
+      {
+        "name": "pyromod:sound_weed",
+        "stream": true
+      }
+    ]
+  },
+  "sound_disc_weed": {
+    "sounds": [
+      {
+        "name": "pyromod:sound_weed",
+        "stream": true
+      }
+    ]
+  }
+}

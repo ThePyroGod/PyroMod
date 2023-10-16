@@ -1,0 +1,10 @@
+{
+  "item.pyromod.example_item": "Sinister Object",
+  "item.pyromod.weed_music_disc": "Heh heh heh heh",
+  "item.pyromod.weed_music_disc.desc": "Electric Wizard - Dopethrone",
+  "item.pyromod.weed": "Programming Nightmare",
+  "sounds.pyromod.sound_weed": "Swag",
+  "sounds.pyromod.sound_disc_weed": "Swag",
+
+  "creativetab.pyro_tab": "Swag Tab"
+}
